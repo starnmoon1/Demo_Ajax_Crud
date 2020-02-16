@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c68b1e9f-9d55-484b-8f2a-60709d15b669" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/controller/UserController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/user/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/user/UserDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/images/16:01:12Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/images/16:01:35Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/images/16:01:47Screenshot from 2019-12-05 07-13-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/user/addUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/user/editUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/user/listUser.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/model/categories/Categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/model/categories/CategoriesDB.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/addBook.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/editBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/assignment_module_2/controller/productManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/assignment_module_2/controller/productManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/assignment_module_2/controller/storeManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/assignment_module_2/controller/storeManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/assignment_module_2/database/productDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/assignment_module_2/database/productDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/assignment_module_2/database/storeDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/assignment_module_2/database/storeDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/assignment_module_2/view/core/nav.php" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/assignment_module_2/view/core/nav.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/demo_database_CRUD/shop-product/class/oderManager.php" beforeDir="false" afterPath="$PROJECT_DIR$/DB/demo_database_CRUD/shop-product/class/oderManager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111" beforeDir="false" afterPath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111/shop/class/order-manager.php" beforeDir="false" afterPath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111/shop/class/order-manager.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111/shop/data/productDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111/shop/data/productDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111/shop_manager.sql" beforeDir="false" afterPath="$PROJECT_DIR$/DB/demo_database_CRUD/tea_Shop/1111111111111/shop_manager.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library-Management-System---PHP-MySql/SQL /library.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Library-Management-System---PHP-MySql/SQL /library.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/controller/LibraryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/controller/LibraryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/book/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/book/Book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/book/BookDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/book/BookDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/book/uploadImage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/database/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/model/database/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/editBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/book/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/borrow/listBorrow.php" beforeDir="false" afterPath="$PROJECT_DIR$/Library_master5/Library_master/demo/view/borrow/listBorrow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/src/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/src/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-code-coverage/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-code-coverage/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-token-stream/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/php-token-stream/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit/src/Framework/MockObject/Generator.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit/src/Framework/MockObject/Generator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit/src/Framework/MockObject/MockMethod.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit/src/Framework/MockObject/MockMethod.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit/tests/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/phpunit/phpunit/tests/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/sebastian/diff/tests/fixtures/out/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-method-extraction/vendor/sebastian/diff/tests/fixtures/out/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-variable-extraction" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-variable-extraction" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-variable-extraction/FizzBuzz.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-variable-extraction/FizzBuzzMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_07/thang/php-cleancode-refactoring-variable-extraction/FizzBuzzMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SuperDev-IT/session_13_Exception/thang/exception.php" beforeDir="false" afterPath="$PROJECT_DIR$/SuperDev-IT/session_13_Exception/thang/exception.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/controller/LibraryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/controller/LibraryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/model/book/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/model/book/Book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/model/book/BookDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/model/book/BookDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/model/borrow/BorrowDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/model/borrow/BorrowDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/model/database/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/model/database/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/addBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/details.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/editBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/book/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/borrow/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/borrow/addBorrow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/borrow/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/borrow/details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/hoan/demo/view/borrow/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/hoan/demo/view/borrow/editBorrow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/controller/LibraryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/controller/LibraryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/model/book/Book.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/model/book/Book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/model/book/BookDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/model/book/BookDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/model/book/BookList.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/model/database/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/model/database/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/add.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/model/book/uploadImage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/add.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/addBorrow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/delete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/details.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/editBorrow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/listBorrow.php" beforeDir="false" afterPath="$PROJECT_DIR$/caseStudy/long/library_manager/view/borrow/listBorrow.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/log_in/data/Employees.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/log_in/data/Employees.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul3/demo-laravel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/modul3/demo-laravel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul3/demo-laravel/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/modul3/demo-laravel/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul3/demo-laravel/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/modul3/demo-laravel/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul3/laravel-responsive-admin-template/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/modul3/laravel-responsive-admin-template/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul3/laravel-responsive-admin-template/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/modul3/laravel-responsive-admin-template/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modul3/laravel-responsive-admin-template/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/modul3/laravel-responsive-admin-template/vendor/composer/installed.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/greeting/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="html" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/caseStudy/long/library_manager" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/greeting/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/greeting/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/greeting/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/greeting/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/greeting/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/greeting/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/greeting/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/greeting/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/greeting/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/greeting/vendor/composer" />
+      <path value="$PROJECT_DIR$/greeting/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/greeting/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/greeting/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/greeting/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/greeting/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/greeting/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/greeting/vendor/league/commonmark-ext-table" />
+      <path value="$PROJECT_DIR$/greeting/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/greeting/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/greeting/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/greeting/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/greeting/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/greeting/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/greeting/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/greeting/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/greeting/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/greeting/vendor/scrivo/highlight.php" />
+      <path value="$PROJECT_DIR$/greeting/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/greeting/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/greeting/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/greeting/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/greeting/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/greeting/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/greeting/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/greeting/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/greeting/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/greeting/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/greeting/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/greeting/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/greeting/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/greeting/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/greeting/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/greeting/vendor/ramsey/uuid" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UPY3QLNPnJsqjOlCLlh9TPUPKc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ajax_Crud" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/iNote/Model/Note" />
+      <recent name="$PROJECT_DIR$/thang1/view/book" />
+      <recent name="$PROJECT_DIR$/library_manager/view/book" />
+      <recent name="$PROJECT_DIR$/thhhh" />
+      <recent name="$PROJECT_DIR$/My exam" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/caseStudy/long/library_manager/view/book/images" />
+      <recent name="$PROJECT_DIR$/fillllllllllll" />
+      <recent name="$PROJECT_DIR$/thang1/model/book" />
+      <recent name="$PROJECT_DIR$/thang1/model/borrow" />
+      <recent name="$PROJECT_DIR$/thang1/model/author" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c68b1e9f-9d55-484b-8f2a-60709d15b669" name="Default Changelist" comment="" />
+      <created>1575259497155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575259497155</updated>
+      <workItem from="1575259498603" duration="2174000" />
+      <workItem from="1575261870291" duration="1057000" />
+      <workItem from="1575281561547" duration="2064000" />
+      <workItem from="1575299000749" duration="7452000" />
+      <workItem from="1575308287642" duration="69000" />
+      <workItem from="1575334928555" duration="8225000" />
+      <workItem from="1575363039626" duration="1108000" />
+      <workItem from="1575379069125" duration="11214000" />
+      <workItem from="1575418024325" duration="2208000" />
+      <workItem from="1575421615804" duration="11366000" />
+      <workItem from="1575460988572" duration="1032000" />
+      <workItem from="1575462251314" duration="4000" />
+      <workItem from="1575473401660" duration="5726000" />
+      <workItem from="1575508281621" duration="1499000" />
+      <workItem from="1575510859119" duration="12301000" />
+      <workItem from="1575562456440" duration="5973000" />
+      <workItem from="1575594202050" duration="13293000" />
+      <workItem from="1575770521422" duration="6782000" />
+      <workItem from="1575786377466" duration="9536000" />
+      <workItem from="1575807496300" duration="10518000" />
+      <workItem from="1575820196159" duration="200000" />
+      <workItem from="1575853738433" duration="11695000" />
+      <workItem from="1575907720648" duration="2268000" />
+      <workItem from="1575939736823" duration="8551000" />
+      <workItem from="1575968704399" duration="671000" />
+      <workItem from="1575988277766" duration="1440000" />
+      <workItem from="1576027079036" duration="4352000" />
+      <workItem from="1576046495050" duration="1907000" />
+      <workItem from="1576049562545" duration="7993000" />
+      <workItem from="1576076019587" duration="1944000" />
+      <workItem from="1576199475528" duration="11071000" />
+      <workItem from="1576457871574" duration="6817000" />
+      <workItem from="1576487344698" duration="602000" />
+      <workItem from="1576544651359" duration="9800000" />
+      <workItem from="1576570143059" duration="653000" />
+      <workItem from="1576630369496" duration="10769000" />
+      <workItem from="1576659817635" duration="308000" />
+      <workItem from="1576660146764" duration="675000" />
+      <workItem from="1576689005632" duration="188000" />
+      <workItem from="1576718832052" duration="6721000" />
+      <workItem from="1576804132011" duration="1007000" />
+      <workItem from="1576805506381" duration="1340000" />
+      <workItem from="1576914060268" duration="7948000" />
+      <workItem from="1576976271806" duration="4035000" />
+      <workItem from="1577064903528" duration="12790000" />
+      <workItem from="1577125714581" duration="1122000" />
+      <workItem from="1577154138827" duration="5878000" />
+      <workItem from="1577235788728" duration="16602000" />
+      <workItem from="1577283251871" duration="8359000" />
+      <workItem from="1577292386564" duration="2000" />
+      <workItem from="1577321736035" duration="806000" />
+      <workItem from="1577322723146" duration="569000" />
+      <workItem from="1578228409643" duration="659000" />
+      <workItem from="1578272457371" duration="435000" />
+      <workItem from="1578273331274" duration="5164000" />
+      <workItem from="1578358733486" duration="3705000" />
+      <workItem from="1578363427235" duration="2446000" />
+      <workItem from="1578445910642" duration="599000" />
+      <workItem from="1578503024581" duration="597000" />
+      <workItem from="1578533031103" duration="7071000" />
+      <workItem from="1578621880190" duration="14593000" />
+      <workItem from="1578900996993" duration="4953000" />
+      <workItem from="1578968963253" duration="3695000" />
+      <workItem from="1579050286072" duration="34278000" />
+      <workItem from="1579094618263" duration="23499000" />
+      <workItem from="1579136537303" duration="4799000" />
+      <workItem from="1579141826818" duration="26873000" />
+      <workItem from="1579224776154" duration="17237000" />
+      <workItem from="1579350131378" duration="1007000" />
+      <workItem from="1579416550789" duration="11585000" />
+      <workItem from="1579485180887" duration="827000" />
+      <workItem from="1581502380087" duration="51000" />
+      <workItem from="1581502521398" duration="996000" />
+      <workItem from="1581558176802" duration="332000" />
+      <workItem from="1581558932582" duration="708000" />
+      <workItem from="1581559853467" duration="160000" />
+      <workItem from="1581560101589" duration="1450000" />
+      <workItem from="1581643606209" duration="249000" />
+      <workItem from="1581829012494" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="56" width="824" height="684" key="#CLI_Interpreters" timestamp="1575260097452">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="56" width="824" height="684" key="#CLI_Interpreters/67.27.1299.741@67.27.1299.741" timestamp="1575260097452" />
+    <state x="311" y="58" width="800" height="677" key="#Notifications" timestamp="1575809179130">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Notifications/67.27.1299.741@67.27.1299.741" timestamp="1575809179130" />
+    <state x="67" y="27" width="700" height="741" key="#PHP" timestamp="1575261334250">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="700" height="741" key="#PHP/67.27.1299.741@67.27.1299.741" timestamp="1575261334250" />
+    <state x="308" y="191" width="568" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577159583384">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="308" y="191" width="568" height="416" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1577159583384" />
+    <state x="360" y="191" width="565" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1575307400378" />
+    <state x="468" y="27" width="476" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1579083025140">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="435" y="27" width="476" height="741" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.1366.741@0.27.1366.741" timestamp="1577243882835" />
+    <state x="468" y="27" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/49.27.1317.741@49.27.1317.741" timestamp="1579083025140" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1575773175815">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1299.741@67.27.1299.741" timestamp="1575773175815" />
+    <state x="427" y="27" width="501" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1576029986651">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="427" y="27" width="501" height="741" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/0.27.1366.741@0.27.1366.741" timestamp="1576029986651" />
+    <state x="167" y="125" width="1099" height="543" key="DiffContextDialog" timestamp="1575533344336">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="167" y="125" width="1099" height="543" key="DiffContextDialog/67.27.1299.741@67.27.1299.741" timestamp="1575533344336" />
+    <state x="482" y="156" width="424" height="484" key="FileChooserDialogImpl" timestamp="1581829076955">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="449" y="156" key="FileChooserDialogImpl/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577323290641" />
+    <state x="482" y="156" width="424" height="484" key="FileChooserDialogImpl/49.27.1317.741@49.27.1317.741" timestamp="1581829076955" />
+    <state x="494" y="156" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1575260087181" />
+    <state x="627" y="144" width="663" height="405" key="NewPhpClassDialog" timestamp="1579474692576">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="599" y="144" width="583" height="405" key="NewPhpClassDialog/0.27.1366.741@0.27.1366.741" timestamp="1577284228681" />
+    <state x="627" y="144" width="663" height="405" key="NewPhpClassDialog/49.27.1317.741@49.27.1317.741" timestamp="1579474692576" />
+    <state x="318" y="195" width="791" height="405" key="NewPhpClassDialog/67.27.1299.741@67.27.1299.741" timestamp="1575778851701" />
+    <state x="492" y="352" width="399" height="157" key="NewPhpFileDialog" timestamp="1579475108017">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="460" y="352" width="399" height="157" key="NewPhpFileDialog/0.27.1366.741@0.27.1366.741" timestamp="1577287708753" />
+    <state x="492" y="352" width="399" height="157" key="NewPhpFileDialog/49.27.1317.741@49.27.1317.741" timestamp="1579475108017" />
+    <state x="504" y="352" width="399" height="157" key="NewPhpFileDialog/67.27.1299.741@67.27.1299.741" timestamp="1575882440866" />
+    <state x="36" y="38" key="SettingsEditor" timestamp="1576914585647">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="36" y="38" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1576914585647" />
+    <state x="101" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1575607824516" />
+    <state x="332" y="232" key="com.intellij.ide.util.TipDialog" timestamp="1577322738240">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="332" y="232" key="com.intellij.ide.util.TipDialog/0.27.1366.741/1366.0.1366.768@0.27.1366.741" timestamp="1577322738240" />
+    <state x="332" y="232" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1577321791842" />
+    <state x="383" y="232" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1575939738240" />
+    <state x="0" y="27" width="887" height="741" key="find.popup" timestamp="1579224834561">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="0" y="27" width="887" height="741" key="find.popup/49.27.1317.741@49.27.1317.741" timestamp="1579224834561" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1575950433872">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.27.1366.741@0.27.1366.741" timestamp="1575950433872" />
+    <state x="432" y="281" width="540" height="230" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579233784926">
+      <screen x="49" y="27" width="1317" height="741" />
+    </state>
+    <state x="432" y="281" width="540" height="230" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/49.27.1317.741@49.27.1317.741" timestamp="1579233784926" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/SuperDev-IT/session_02_array_function/thang/exercise/Json/listUser.php</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

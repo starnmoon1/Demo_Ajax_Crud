@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0dcaf17-109e-40c8-98cc-8f2ac6eb2c5d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/16:01:12Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/16:01:35Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/16:01:47Screenshot from 2019-12-05 07-13-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/16:01:55Screenshot from 2019-12-05 07-13-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/16:01:57Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/18:01:08Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/18:01:33Screenshot from 2019-12-03 18-13-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/18:01:33Screenshot from 2019-12-09 16-58-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/18:01:40Ifx4tXF - Imgur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/18:01:53208029_295670643870383_338241175_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/view/book/images/21:01:06IU_trang_diem_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/controller/LibraryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/controller/LibraryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/model/book/BookDB.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/model/book/BookDB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/model/book/uploadImage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/model/database/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/model/database/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/view/book/edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/view/book/editBook.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/view/book/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/view/book/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/view/book/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/demo/view/book/list.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/demo" />
+  </component>
+  <component name="ProjectId" id="1WV8aMPv2QtOO7jGDdZZxyMe1fX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo/view/book" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Library_master" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo/view/book" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0dcaf17-109e-40c8-98cc-8f2ac6eb2c5d" name="Default Changelist" comment="" />
+      <created>1579223463407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579223463407</updated>
+      <workItem from="1579223464918" duration="8222000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1850" y="0" width="1116" height="609" key="dock-window-1" timestamp="1579226898358">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="1850" y="0" width="1116" height="609" key="dock-window-1/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1579226898358" />
+    <state x="2069" y="242" width="647" height="526" key="find.popup" timestamp="1579227128732">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="2069" y="242" width="647" height="526" key="find.popup/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1579227128732" />
+    <state x="525" y="345" width="540" height="168" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1579227343915">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="525" y="345" width="540" height="168" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1600.860/1600.0.1366.768@0.0.1600.860" timestamp="1579227343915" />
+  </component>
+</project>
